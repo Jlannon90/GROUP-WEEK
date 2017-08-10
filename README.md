@@ -10,6 +10,14 @@ This program is a recreation of the negotiation mechanic in the game Persona 5
 
 Youtube Link: https://youtu.be/wdFfD9CWRW8
 
+## Screenshots
+
+<h1 align="center"><img src="https://github.com/Sigtaba/GROUP-WEEK/blob/master/Content/img/persona5-main.png?raw=true"></h1>
+<h1 align="center"><img src="https://github.com/Sigtaba/GROUP-WEEK/blob/master/Content/img/persona5-about.png?raw=true"></h1>
+<h1 align="center"><img src="https://github.com/Sigtaba/GROUP-WEEK/blob/master/Content/img/persona5-negotiation.png?raw=true"></h1>
+<h1 align="center"><img src="https://github.com/Sigtaba/GROUP-WEEK/blob/master/Content/img/persona5-victory.png?raw=true"></h1>
+
+
 ## Example Play-Through
 
 | Behavior | Input / User Action | Output / Program Action |
